@@ -1,0 +1,31 @@
+commit 32a269df8bf6ef12f9a056b9b4967a94ecd5bf82
+Author: danluki <danluki02@yandex.ru>
+Date:   Sat Feb 21 15:10:10 2026 +0500
+
+    Добавлен test.txt в ветке TEST
+
+commit a8f2146f3db20c781db5e92be288f39586c85746
+Author: danluki <danluki02@yandex.ru>
+Date:   Sat Feb 21 15:09:26 2026 +0500
+
+    Добавлен .gitignore для временных файлов
+
+commit 08e624c0db9344bb9fa6a48565856c639cc9d42b
+Author: danluki <danluki02@yandex.ru>
+Date:   Sat Feb 21 15:08:08 2026 +0500
+
+    Revert "Добавлена платформа видеоконференций"
+    
+    This reverts commit c8469067f317354244c940a17b5b159d436a1e3b.
+
+commit c8469067f317354244c940a17b5b159d436a1e3b
+Author: danluki <danluki02@yandex.ru>
+Date:   Sat Feb 21 15:06:25 2026 +0500
+
+    Добавлена платформа видеоконференций
+
+commit ca74b29c3c50f2274baf059bc9af17306454ab06
+Author: danluki <danluki02@yandex.ru>
+Date:   Sat Feb 21 15:02:54 2026 +0500
+
+    Добавляен базовый readme с ФИО и группой
